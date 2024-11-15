@@ -1,0 +1,32 @@
+body {
+  background-color: #d97904;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+table {
+  width: 60%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid white;
+  text-align: center;
+}
+
+th {
+  background-color: #333;
+}
+
+p {
+  font-size: 0.8em;
+  color: #f0f0f0;
+  margin-top: 10px;
+}
